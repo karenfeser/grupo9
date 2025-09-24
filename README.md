@@ -1,4 +1,4 @@
 Integrantes:
-Renata Vercesi
-Sol Montenegro
-Karen Feser
+Renata Vercesi,
+Sol Montenegro,
+Karen Feser.
